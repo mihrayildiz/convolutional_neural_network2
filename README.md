@@ -1,2 +1,2 @@
 # convolutional_neural_network2
-CNN
+Bu çalışmada Kaggle üzerinden alınan "fruits 360" dataseti kullanılarak Keras ile CNN  mimarisi incelenmiştir.
